@@ -19,5 +19,15 @@
     "email": "hendar2@binar.com",
     "password": "123"
   },
-  {}
+  {},
+  {
+    "id": "Son",
+    "email": "test1@gmail.com",
+    "password": "1"
+  },
+  {
+    "id": "Son",
+    "email": "test2@gmail.com",
+    "password": "2"
+  }
 ]
